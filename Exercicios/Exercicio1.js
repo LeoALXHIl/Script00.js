@@ -1,1 +1,1 @@
-console.log("Ambiente configurado com sucesso!"); // pouca coisa
+console.log("Ambiente configurado com sucesso!"); // poucas coisas
